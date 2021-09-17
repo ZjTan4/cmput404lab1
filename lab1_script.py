@@ -1,6 +1,6 @@
 import requests
 
-# Question 2 % 3
+# Question 2 & 3
 print(requests.__version__)
 # Step 5
 googleHomePage = requests.get("http://www.google.com/")
